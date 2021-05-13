@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.05706c57.chunk.css",
-    "main.js": "/reactapp/static/js/main.f9456963.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.f9456963.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.c94b819c.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.c94b819c.js.map",
-    "static/js/2.3010f1db.chunk.js": "/reactapp/static/js/2.3010f1db.chunk.js",
-    "static/js/2.3010f1db.chunk.js.map": "/reactapp/static/js/2.3010f1db.chunk.js.map",
-    "static/js/3.fdfffa07.chunk.js": "/reactapp/static/js/3.fdfffa07.chunk.js",
-    "static/js/3.fdfffa07.chunk.js.map": "/reactapp/static/js/3.fdfffa07.chunk.js.map",
-    "index.html": "/reactapp/index.html",
-    "static/css/main.05706c57.chunk.css.map": "/reactapp/static/css/main.05706c57.chunk.css.map",
-    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/reactapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/reactapp/static/media/bg-intro-mobile.02ce3982.png"
+    "main.css": "/myreactapp/static/css/main.b7587302.chunk.css",
+    "main.js": "/myreactapp/static/js/main.f9456963.chunk.js",
+    "main.js.map": "/myreactapp/static/js/main.f9456963.chunk.js.map",
+    "runtime-main.js": "/myreactapp/static/js/runtime-main.85f5ac3d.js",
+    "runtime-main.js.map": "/myreactapp/static/js/runtime-main.85f5ac3d.js.map",
+    "static/js/2.3010f1db.chunk.js": "/myreactapp/static/js/2.3010f1db.chunk.js",
+    "static/js/2.3010f1db.chunk.js.map": "/myreactapp/static/js/2.3010f1db.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/myreactapp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/myreactapp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/myreactapp/index.html",
+    "static/css/main.b7587302.chunk.css.map": "/myreactapp/static/css/main.b7587302.chunk.css.map",
+    "static/js/2.3010f1db.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.3010f1db.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/myreactapp/static/media/bg-intro-mobile.02ce3982.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c94b819c.js",
+    "static/js/runtime-main.85f5ac3d.js",
     "static/js/2.3010f1db.chunk.js",
-    "static/css/main.05706c57.chunk.css",
+    "static/css/main.b7587302.chunk.css",
     "static/js/main.f9456963.chunk.js"
   ]
 }
